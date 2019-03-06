@@ -1,0 +1,3 @@
+[submodule "sregex"]
+	path = sregex
+	url = https://github.com/openresty/sregex
